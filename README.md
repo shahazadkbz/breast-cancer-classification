@@ -31,11 +31,16 @@ The goal is to evaluate different algorithms and identify the best-performing on
 ---
 
 ## 📈 Results
-- Compared multiple algorithms  
-- Best accuracy achieved with: **[Fill in after running models]**  
-- Accuracy comparison bar chart included  
+- Compared 6 machine learning algorithms:
+  - Logistic Regression  
+  - Decision Tree  
+  - Random Forest  
+  - Support Vector Machine (SVM)  
+  - Naive Bayes  
+  - K-Nearest Neighbors (KNN)  
+- Best accuracy achieved with: **Random Forest (0.98)**  
+- Accuracy comparison bar chart is included for visual comparison.  
 
----
 
 ## 🚀 How to Run
 Clone the repo and open the notebook in Jupyter/Colab:
